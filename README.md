@@ -1,5 +1,5 @@
 # Marketing Analytics Portfolio Project  
-### SQL | Python | Power BI  
+### SQL | Python | Power BI |
 
 ---
 
