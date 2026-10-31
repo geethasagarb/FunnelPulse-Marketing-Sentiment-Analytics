@@ -86,7 +86,7 @@ The dashboard was designed to support stakeholder-facing reporting.
 
 ## Key Insights
 
-###  Conversion Performance
+### Conversion Performance
 - Highest conversion rate: January (18.5%)
 - Lowest conversion rate: May (4.3%)
 - Strong recovery observed in December (10.2%)
