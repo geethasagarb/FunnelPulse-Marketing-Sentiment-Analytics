@@ -1,5 +1,5 @@
-# Marketing Analytics Portfolio Project  
-### SQL | Python | Power BI |
+# FunnelPulse: Marketing Analytics Portfolio Project
+### SQL | Python | Power BI
 
 ---
 
@@ -86,7 +86,7 @@ The dashboard was designed to support stakeholder-facing reporting.
 
 ## Key Insights
 
-###  Conversion Performance
+### Conversion Performance
 - Highest conversion rate: January (18.5%)
 - Lowest conversion rate: May (4.3%)
 - Strong recovery observed in December (10.2%)
@@ -156,10 +156,22 @@ Even small rating gaps (3.7 vs 4.0) significantly affect brand trust and purchas
 
 ---
 
+## Repository structure
+
+```
+scripts/sql/                     SQL for the fact and dimension tables
+data/                            customer reviews with sentiment scores
+images/                          dashboard screenshots
+Marketing_Analytics_Dashboard.pdf
+Presentation.pdf / .pptx
+```
+
+---
+
 ## Author
 
 Geetha Sagar Bonthu
 
-## Co Author 
+## Co-author
 
 Jyothirmayi Bavi Reddy (jyothikabavireddy@gmail.com)
