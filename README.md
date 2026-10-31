@@ -160,6 +160,6 @@ Even small rating gaps (3.7 vs 4.0) significantly affect brand trust and purchas
 
 Geetha Sagar Bonthu
 
-## Co Author 
+## Co-author
 
 Jyothirmayi Bavi Reddy (jyothikabavireddy@gmail.com)
