@@ -156,6 +156,18 @@ Even small rating gaps (3.7 vs 4.0) significantly affect brand trust and purchas
 
 ---
 
+## Repository structure
+
+```
+scripts/sql/                     SQL for the fact and dimension tables
+data/                            customer reviews with sentiment scores
+images/                          dashboard screenshots
+Marketing_Analytics_Dashboard.pdf
+Presentation.pdf / .pptx
+```
+
+---
+
 ## Author
 
 Geetha Sagar Bonthu
