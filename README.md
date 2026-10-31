@@ -1,5 +1,5 @@
-# Marketing Analytics Portfolio Project  
-### SQL | Python | Power BI |
+# FunnelPulse: Marketing Analytics Portfolio Project
+### SQL | Python | Power BI
 
 ---
 
